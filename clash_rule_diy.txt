@@ -4,3 +4,4 @@ payload:
   - '+.bnbstatic.com'
   - '+.githubusercontent.com'
   - '+.github.com'
+  - '+.gstatic.com'
