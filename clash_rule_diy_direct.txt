@@ -1,7 +1,8 @@
 payload:
-  - '+.okx.com'
-  - '+.binance.com'
-  - '+.bnbstatic.com'
-  - '+.githubusercontent.com'
-  - '+.github.com'
-  - '+.gstatic.com'
+  - '+.apple.com'
+  - '+.apple.com.cn'
+  - '+.immersivetranslate.com'
+  - '+.tnas.online'
+  - '+.tnas.com ,DIRECT
+  - '+.terra-master.com'
+  - '+.aaplimg.com'
