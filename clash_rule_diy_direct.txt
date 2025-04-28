@@ -7,3 +7,4 @@ payload:
   - '+.terra-master.com'
   - '+.aaplimg.com'
   - '+.courier-push-apple.com.akadns.net'
+  - '+.microsoft.com'
