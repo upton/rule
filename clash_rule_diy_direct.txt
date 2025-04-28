@@ -8,3 +8,4 @@ payload:
   - '+.aaplimg.com'
   - '+.courier-push-apple.com.akadns.net'
   - '+.microsoft.com'
+  - '+.microsoftonline.com'
