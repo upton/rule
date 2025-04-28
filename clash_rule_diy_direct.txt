@@ -3,6 +3,7 @@ payload:
   - '+.apple.com.cn'
   - '+.immersivetranslate.com'
   - '+.tnas.online'
-  - '+.tnas.com ,DIRECT
+  - '+.tnas.com'
   - '+.terra-master.com'
   - '+.aaplimg.com'
+  - '+.courier-push-apple.com.akadns.net'
