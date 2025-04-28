@@ -1,0 +1,7 @@
+payload:
+  - '+.okx.com'
+  - '+.binance.com'
+  - '+.bnbstatic.com'
+  - '+.githubusercontent.com'
+  - '+.github.com'
+  - '+.gstatic.com'
