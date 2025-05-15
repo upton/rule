@@ -2,3 +2,4 @@ payload:
   - '+.githubusercontent.com'
   - '+.github.com'
   - '+.gstatic.com'
+  - '+.openwrt.ai'
