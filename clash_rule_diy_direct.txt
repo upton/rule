@@ -1,7 +1,6 @@
 payload:
   - '+.apple.com'
   - '+.apple.com.cn'
-  - '+.immersivetranslate.com'
   - '+.tnas.online'
   - '+.tnas.com'
   - '+.terra-master.com'
