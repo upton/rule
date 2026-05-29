@@ -8,3 +8,7 @@ payload:
   - '+.courier-push-apple.com.akadns.net'
   - '+.microsoft.com'
   - '+.microsoftonline.com'
+  - '+.pipecdn.vip'
+  - '+.global-cdn.me'
+  - '+.iyf.tv'
+  - '+.anybound.vip'
