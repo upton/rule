@@ -1,0 +1,5 @@
+payload:
+  - '+.pipecdn.vip'
+  - '+.global-cdn.me'
+  - '+.iyf.tv'
+  - '+.anybound.vip'
