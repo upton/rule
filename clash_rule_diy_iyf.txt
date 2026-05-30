@@ -3,6 +3,7 @@ payload:
   - '+.global-cdn.me'
   - '+.iyf.tv'
   - '+.anybound.vip'
+  - '+.tripdata.app'
   - '+.globalcdmnetworka.vip'
   - '+.globalcdmnetworkb.vip'
   - '+.globalcdmnetworkc.vip'
